@@ -5,5 +5,5 @@ object Submodule3App extends Greeting3 with App {
 }
 
 trait Greeting3 {
-  lazy val greeting: String = "hello from Submodule 3"
+  lazy val greeting: String = "hello from Submodule 3 changed"
 }
