@@ -5,5 +5,5 @@ lazy val root = (project in file("."))
   .settings(
     name := "RepoB",
     libraryDependencies ++= testDeps,
-    description := "Root of the project"
+    description := "Root of the project RepoB"
   )
